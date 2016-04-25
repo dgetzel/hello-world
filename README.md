@@ -1,2 +1,3 @@
 # hello-world
-practic
+practice
+Ode to proper spelling
